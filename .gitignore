@@ -1,0 +1,11 @@
+*.mp4
+*.wav
+*.npz
+__pycache__/
+prev/
+pg/
+pf/
+sc/
+sg/
+sf/
+sortie/
