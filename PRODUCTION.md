@@ -9,7 +9,7 @@ Compte : @michel.le.chat4. Personnages : Michel (chat roux, l'air innocent), Gé
 4. Dessiner des images clés en taille réelle et les regarder avant le rendu complet.
 5. Rendre une scène par fichier, joindre avec `-c copy`, ajouter le son.
 6. Vérifier la vidéo finale : durée, images, légendes, volume.
-7. Envoyer la vidéo à l'utilisateur avec la légende, les hashtags et l'idée suivante.
+7. Envoyer la vidéo à l'utilisateur avec la légende, les hashtags et l'idée suivante. Si son ordi est joignable, la déposer uniquement dans `C:\Users\Yann\Videos\Michel` (30 Mo maximum par fichier), jamais ailleurs.
 8. Mettre à jour `IDEES.md` et `HISTORIQUE.md`, puis pousser sur GitHub.
 
 ## Format obligatoire
