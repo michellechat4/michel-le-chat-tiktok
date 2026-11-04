@@ -25,4 +25,4 @@ Compte : @michel.le.chat4. Personnages : Michel (chat roux, l'air innocent), Gé
 - Ne jamais publier sans le « go » explicite de l'utilisateur pour cette vidéo précise.
 - Ne jamais saisir de mot de passe.
 - Label « Contenu généré par IA » activé à chaque publication.
-- Une seule vidéo par soir : avant de programmer, lire `HISTORIQUE.md` et prendre le premier soir libre à 19 h 30.
+- Une vidéo par jour, à 19 h (heure de Paris) : avant de programmer, lire `HISTORIQUE.md` et prendre le premier soir libre.
