@@ -19,7 +19,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Il réclame deux fois plus tôt : 7 h, 3 h, hier, l'an dernier
 
 ## Et si…
-- [ ] La Terre s'arrête de tourner une seconde ; Michel est accroché aux rideaux
+- [x] La Terre s'arrête de tourner une seconde ; Michel est accroché aux rideaux
 - [ ] Un trou traverse la Terre : Gérard tombe, très calme
 - [ ] Une croquette lâchée de plus en plus haut : cratère, Michel la mange
 - [ ] La gravité divisée par deux chaque jour
