@@ -7,4 +7,4 @@
 | 2026-11-03 | michel_a_faim | Michel ×2 | 65 s | Programmée le 4 nov. à 19 h 30 |
 | 2026-11-04 | michel_fait_tomber | La vraie vie avec un chat, en pire | 69 s | Go reçu, réservée pour le 6 nov. à 19 h, publication à confirmer |
 | 2026-11-05 | michel_terre_stop | Et si… | 75 s | Go reçu, réservée pour le 7 nov. à 19 h, publication à confirmer |
-| 2026-11-06 | michel_milliard_annees | Michel responsable de tout | 79 s | Envoyée, en attente du go, soir réservé : 8 nov. à 19 h |
+| 2026-11-06 | michel_milliard_annees | Michel responsable de tout | 79 s | Go reçu, réservée pour le 8 nov. à 19 h, publication à confirmer |
