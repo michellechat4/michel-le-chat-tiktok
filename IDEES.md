@@ -48,7 +48,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Michel président : sieste obligatoire, chiens en exil
 - [ ] Michel PDG : tout le monde viré, sauf le thon
 - [ ] Il gagne au Loto et rachète toutes les croquettes
-- [ ] Il vit un milliard d'années : les descendants de Gérard le nourrissent
+- [x] Il vit un milliard d'années : les descendants de Gérard le nourrissent
 - [ ] Gérard l'envoie sur Mars : il y fonde un empire
 - [ ] Il devient invisible : Gérard s'en rend compte au bout de trois ans
 - [ ] Il a toujours compris le français et il ignorait Gérard exprès
