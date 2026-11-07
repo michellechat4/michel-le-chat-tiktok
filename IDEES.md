@@ -55,7 +55,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Il se téléporte, toujours du mauvais côté de la porte
 
 ## Gérard contre le monde
-- [ ] Le poisson rouge double de taille : combat contre Michel
+- [x] Le poisson rouge double de taille : combat contre Michel
 - [ ] Un deuxième chat : guerre mondiale, traité de paix
 - [ ] Un repas oublié : la vengeance sur 30 jours
 - [ ] Le régime : une croquette de moins, la révolution
