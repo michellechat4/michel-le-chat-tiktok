@@ -39,7 +39,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] L'aspirateur deux fois plus puissant : poils, maison, galaxie
 - [ ] La cage pour le véto : pompiers, puis armée
 - [ ] Le médicament : tentative n° 1 000
-- [ ] Sortir, rentrer : Gérard a fait le tour de la Terre
+- [x] Sortir, rentrer : Gérard a fait le tour de la Terre
 - [ ] Il dort sur le clavier : mail au patron, 40 tonnes de thon, fusée
 
 ## Michel responsable de tout
