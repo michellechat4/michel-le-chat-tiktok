@@ -11,3 +11,4 @@
 | 2026-11-07 | michel_poisson_rouge | Gérard contre le monde | 68 s | Go reçu, réservée pour le 9 nov. à 19 h, publication à confirmer |
 | 2026-11-09 | michel_saut_lune | Michel ×2 | 69 s | Go reçu, réservée pour le 10 nov. à 19 h, publication à confirmer |
 | 2026-11-10 | michel_porte | La vraie vie avec un chat, en pire | 67 s | Envoyée, en attente du go — réservée pour le 11 nov. à 19 h |
+| 2026-11-11 | michel_trou_terre | Et si… | 68 s | Envoyée, en attente du go — réservée pour le 12 nov. à 19 h |

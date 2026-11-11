@@ -20,7 +20,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 
 ## Et si…
 - [x] La Terre s'arrête de tourner une seconde ; Michel est accroché aux rideaux
-- [ ] Un trou traverse la Terre : Gérard tombe, très calme
+- [x] Un trou traverse la Terre : Gérard tombe, très calme
 - [ ] Une croquette lâchée de plus en plus haut : cratère, Michel la mange
 - [ ] La gravité divisée par deux chaque jour
 - [ ] Michel pousse un verre presque à la vitesse de la lumière
