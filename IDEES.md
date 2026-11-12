@@ -43,7 +43,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Il dort sur le clavier : mail au patron, 40 tonnes de thon, fusée
 
 ## Michel responsable de tout
-- [ ] Il remonte le temps et pousse l'astéroïde des dinosaures « de la table »
+- [x] Il remonte le temps et pousse l'astéroïde des dinosaures « de la table »
 - [ ] La tour de Pise, le nez du Sphinx, le mur de Berlin : c'était lui
 - [ ] Michel président : sieste obligatoire, chiens en exil
 - [ ] Michel PDG : tout le monde viré, sauf le thon
