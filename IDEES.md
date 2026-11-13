@@ -8,7 +8,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [x] Sa faim double : Gérard vend tout
 
 ## Michel ×2
-- [ ] Son poids double : plancher, noyau, trou noir
+- [x] Son poids double : plancher, noyau, trou noir
 - [ ] Ses poils doublent : la Terre devient une boule de poils
 - [ ] Sa vitesse double pendant sa folie de 3 h du matin : mur du son, orbite
 - [ ] Ses griffes doublent : canapé, Alpes, la Terre coupée en deux
