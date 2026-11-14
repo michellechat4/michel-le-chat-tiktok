@@ -60,7 +60,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Un repas oublié : la vengeance sur 30 jours
 - [ ] Le régime : une croquette de moins, la révolution
 - [ ] Gérard part une semaine : sa maison est une nation
-- [ ] Gérard allergique, deux fois plus chaque jour
+- [x] Gérard allergique, deux fois plus chaque jour
 - [ ] L'appel à l'assurance : « Cause du sinistre ? » « Michel. » Jusqu'à l'ONU
 - [ ] Le voisin porte plainte : tribunal, puis procès contre l'univers
 - [ ] Gérard adopte un chien : Michel prépare sa disparition
