@@ -35,7 +35,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] La litière pas changée : montagne classée à l'UNESCO en un million d'années
 - [x] Il fait tomber des objets de plus en plus gros, du verre à la tour Eiffel
 - [ ] Cartons de plus en plus grands, jusqu'à une boîte pour la Terre
-- [ ] Le laser de plus en plus puissant : point rouge sur la Lune
+- [x] Le laser de plus en plus puissant : point rouge sur la Lune
 - [ ] L'aspirateur deux fois plus puissant : poils, maison, galaxie
 - [ ] La cage pour le véto : pompiers, puis armée
 - [ ] Le médicament : tentative n° 1 000

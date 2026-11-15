@@ -15,3 +15,4 @@
 | 2026-11-12 | michel_dinosaures | Michel responsable de tout | 75 s | Envoyée, en attente du go — réservée pour le 13 nov. à 19 h |
 | 2026-11-13 | michel_poids_trou_noir | Michel ×2 | 68 s | Envoyée, en attente du go — réservée pour le 14 nov. à 19 h |
 | 2026-11-14 | michel_eternue | Gérard contre le monde | 71 s | Envoyée, en attente du go — réservée pour le 15 nov. à 19 h |
+| 2026-11-15 | michel_laser_lune | La vraie vie avec un chat, en pire | 68 s | Envoyée, en attente du go — réservée pour le 16 nov. à 19 h |
