@@ -21,7 +21,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 ## Et si…
 - [x] La Terre s'arrête de tourner une seconde ; Michel est accroché aux rideaux
 - [x] Un trou traverse la Terre : Gérard tombe, très calme
-- [ ] Une croquette lâchée de plus en plus haut : cratère, Michel la mange
+- [x] Une croquette lâchée de plus en plus haut : toujours 36 km/h, puis étoile filante
 - [ ] La gravité divisée par deux chaque jour
 - [ ] Michel pousse un verre presque à la vitesse de la lumière
 - [ ] Le Soleil disparaît : 8 minutes pour finir la sieste
