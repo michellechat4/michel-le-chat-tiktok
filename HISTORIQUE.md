@@ -17,3 +17,4 @@
 | 2026-11-14 | michel_eternue | Gérard contre le monde | 71 s | Envoyée, en attente du go — réservée pour le 15 nov. à 19 h |
 | 2026-11-15 | michel_laser_lune | La vraie vie avec un chat, en pire | 68 s | Envoyée, en attente du go — réservée pour le 16 nov. à 19 h |
 | 2026-11-16 | michel_croquette | Et si… | 67 s | Envoyée, en attente du go — réservée pour le 17 nov. à 19 h |
+| 2026-11-17 | michel_vitesse | Michel ×2 | 71 s | Envoyée, en attente du go — réservée pour le 18 nov. à 19 h |

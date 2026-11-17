@@ -10,7 +10,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 ## Michel ×2
 - [x] Son poids double : plancher, noyau, trou noir
 - [ ] Ses poils doublent : la Terre devient une boule de poils
-- [ ] Sa vitesse double pendant sa folie de 3 h du matin : mur du son, orbite
+- [x] Sa vitesse double pendant sa folie de 3 h du matin : mur du son, orbite
 - [ ] Ses griffes doublent : canapé, Alpes, la Terre coupée en deux
 - [x] Son saut double : étagère, toit, ISS, Lune
 - [ ] Le nombre de Michel double : plus de chats que d'humains en un mois
