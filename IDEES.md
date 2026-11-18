@@ -49,7 +49,7 @@ Statuts : [x] publiée ou fabriquée · [ ] à faire. Alterner les catégories d
 - [ ] Michel PDG : tout le monde viré, sauf le thon
 - [ ] Il gagne au Loto et rachète toutes les croquettes
 - [x] Il vit un milliard d'années : les descendants de Gérard le nourrissent
-- [ ] Gérard l'envoie sur Mars : il y fonde un empire
+- [x] Gérard l'envoie sur Mars : il y fonde un empire
 - [ ] Il devient invisible : Gérard s'en rend compte au bout de trois ans
 - [ ] Il a toujours compris le français et il ignorait Gérard exprès
 - [ ] Il se téléporte, toujours du mauvais côté de la porte
